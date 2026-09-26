@@ -1,0 +1,12 @@
+# Dependency folders
+node_modules/
+jspm_packages/
+
+# Production/Build outputs
+build/
+dist/
+
+# Environment Variables (Sensitive Keys)
+.env
+.env.local
+.env.production
