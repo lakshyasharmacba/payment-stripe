@@ -279,7 +279,7 @@ ZIP: Any valid ZIP/postal code
 Example:
 
 ```text
-4242 4242 4242 4242
+4012 8888 8888 1881
 12/30
 123
 ```
