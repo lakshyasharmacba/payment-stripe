@@ -270,7 +270,7 @@ For testing, use Stripe's official test card numbers.
 Example successful test card:
 
 ```text
-Card Number: 4242 4242 4242 4242
+Card Number: 4100 2800 0000 1007
 Expiry: Any future date
 CVC: Any 3 digits
 ZIP: Any valid ZIP/postal code
